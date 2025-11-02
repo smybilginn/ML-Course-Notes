@@ -11,5 +11,5 @@ Bu repository, BTK Akademi Makine Öğrenmesi kursu kapsamında hazırlanmış k
 - Gözetimli ve Gözetimsiz Öğrenme
 
 
-> **Not**: Diğer bölümler sırayla eklenecektir.
+
 
